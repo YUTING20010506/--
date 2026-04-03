@@ -48,8 +48,6 @@ a {
 header {
   background: var(--color-secondary);
   border-bottom: 4px solid var(--color-yellow);
-  position: sticky;
-  top: 0;
   z-index: 100;
   padding: 12px 32px;
 }
